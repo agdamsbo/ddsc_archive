@@ -1,0 +1,11 @@
+name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
+.Random.seed|object|7bbbaabd66e3f32a|||||||||||||||
+df_clean_dataset|stem|e6e07395bcb86ae3|7ec557c046fd2e89|cb375e69bfaa832c|486648134||t19671.5523619579s|cb2408e547ff200d|193037|rds|local|vector|||0.592||
+df_database_variables|stem|ab10f02398c4bd30|1f903154dfde15d1|39683f5fcbb19571|-1593415661||t19671.4145402707s|dd94473a58663b72|12146|rds|local|vector|||12.038||
+df_filtered_dataset|stem|fe5aef2bec5bfce6|62d055c5fd434646|2aecf083d98e8877|531654363||t19671.5514552002s|384c634408cf0394|294658|rds|local|vector|||0.013||
+df_raw_dataset|stem|8b4137300a06c609|82ee79487e0dc7c9|78a70c3cdc3f97f4|1362725230||t19671.4424241828s|84be09f1cfdc7a61|692334|rds|local|vector|||410.116||
+filter_raw_dataset|function|a9a651cd86bdf7bf|||||||||||||||
+modify_filtered_dataset|function|a60d5e4b93eda499|||||||||||||||
+quarto_website|stem||08cb1b8d0ad0e7a4|6c217e4f77ba6653|1602464050||t19671.5524965722s||0|file|local|vector|||11.586||33m39m System command quarto failed
+read_database_variables|function|9af6e1a54886e2b1|||||||||||||||
+read_focused_database|function|45f4cedbfac79ce6|||||||||||||||

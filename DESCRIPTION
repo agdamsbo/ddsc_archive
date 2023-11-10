@@ -1,0 +1,22 @@
+Package: DDSC data project
+Title: DDSC data analysis project
+Version: 0.0.1
+Authors@R: 
+    person("Andreas Gammelgaard", "Damsbo", , "agdamsbo@clin.au.dk", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-7559-1154"))
+Description: Project to work with historical DDSC data.
+License: CC-BY 4.0
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Imports: 
+Suggests: 
+    pak,
+    prodigenr,
+    quarto,
+    renv,
+    usethis,
+    styler
+Depends: 
+    tidymodels,
+    tidyverse

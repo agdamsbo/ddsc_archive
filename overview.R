@@ -2,7 +2,7 @@ require(REDCapR)
 require(keyring)
 
 ## Run the following to save the API key
-keyring::key_set("REDCAP_API_DDSC")
+# keyring::key_set("REDCAP_API_DDSC")
 
 
 ## Get available variable names
